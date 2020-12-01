@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1556827661 source:c:\users\dylan.desktop-ltq2d4a\desktop\college\year2 semester 2\c programming\assignment2\game_funtions.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"game_funtions.h"
+
+1556827808 source:c:\users\dylan.desktop-ltq2d4a\desktop\college\year2 semester 2\c programming\assignment2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"game_funtions.h"
+
+1556824980 c:\users\dylan.desktop-ltq2d4a\desktop\college\year2 semester 2\c programming\assignment2\game_funtions.h
+	<stdbool.h>
+
